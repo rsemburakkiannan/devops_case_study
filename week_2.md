@@ -235,7 +235,7 @@ README.md
 CHANGELOG.md
 ```
 
-# Expert-Level End-to-End Assignment
+# Use Case 6: 
 
 ### Scenario
 
